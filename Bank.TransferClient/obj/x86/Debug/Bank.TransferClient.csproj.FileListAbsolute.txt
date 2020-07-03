@@ -1,0 +1,16 @@
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.TransferClient\bin\Debug\Bank.TransferClient.exe
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.TransferClient\bin\Debug\Bank.TransferClient.pdb
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.TransferClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.TransferClient\obj\x86\Debug\Bank.TransferClient.exe
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.TransferClient\obj\x86\Debug\Bank.TransferClient.pdb
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.TransferClient\bin\Debug\Bank.TransferClient.exe.config
+U:\BankDTC\Bank.TransferClient\bin\Debug\Bank.TransferClient.exe.config
+U:\BankDTC\Bank.TransferClient\bin\Debug\Bank.TransferClient.exe
+U:\BankDTC\Bank.TransferClient\bin\Debug\Bank.TransferClient.pdb
+U:\BankDTC\Bank.TransferClient\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\BankDTC\Bank.TransferClient\obj\x86\Debug\Bank.TransferClient.exe
+U:\BankDTC\Bank.TransferClient\obj\x86\Debug\Bank.TransferClient.pdb
+U:\BankDTC\Bank.TransferClient\obj\x86\Debug\BankTransferControl.baml
+U:\BankDTC\Bank.TransferClient\obj\x86\Debug\BankTransferControl.g.cs
+U:\BankDTC\Bank.TransferClient\obj\x86\Debug\Bank.TransferClient_MarkupCompile.cache
+U:\BankDTC\Bank.TransferClient\obj\x86\Debug\Bank.TransferClient.g.resources

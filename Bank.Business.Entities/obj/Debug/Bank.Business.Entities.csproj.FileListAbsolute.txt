@@ -1,0 +1,40 @@
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\comp5348\Week4\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+U:\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+U:\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+U:\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+U:\BankDTC\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+U:\BankDTC\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+U:\BankDTC\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+\\itsmb\msla2391\BankDTC\BankLabDTC\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+\\itsmb\msla2391\BankDTC\BankLabDTC\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+\\itsmb\msla2391\BankDTC\BankLabDTC\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+\\itsmb\msla2391\BankDTC\BankLabDTC\BankDTC\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+\\itsmb\msla2391\BankDTC\BankLabDTC\BankDTC\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+\\itsmb\msla2391\BankDTC\BankLabDTC\BankDTC\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Documents and Settings\msla2391\Desktop\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Documents and Settings\msla2391\Desktop\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Documents and Settings\msla2391\Desktop\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Documents and Settings\msla2391\Desktop\BankDTC\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\msla2391\Desktop\BankDTC\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Documents and Settings\msla2391\Desktop\BankDTC\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\msla2391\Desktop\BankDTC(4)\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\msla2391\Desktop\BankDTC(4)\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\msla2391\Desktop\BankDTC(4)\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\BankDTC(4)\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\msla2391\Desktop\BankDTC(4)\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\msla2391\Desktop\BankDTC(6)\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\msla2391\Desktop\BankDTC(6)\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\msla2391\Desktop\BankDTC(6)\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\msla2391\Desktop\BankDTC(6)\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\msla2391\Desktop\BankDTC(6)\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Week 3\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Week 3\BankDTC\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Week 3\BankDTC\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Week 3\BankDTC\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Week 3\BankDTC\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Week 3\BankDTC\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
